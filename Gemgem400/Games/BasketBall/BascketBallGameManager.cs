@@ -6,6 +6,10 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
+/// <summary>
+/// 미니 게임 "농구"를 제어하는 매니저 클래스
+/// 이 게임은 현재 "물풍선 던지기" 게임으로 리소스 변경이 이루어졌습니다.
+/// </summary>
 public class BascketBallGameManager : MonoBehaviour
 {
     [SerializeField] private GameObject ballOriginObj;
