@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class StageSelectConstants
+public class StageSelectConstant
 {
     public static readonly Color32[] ORIGINAL_LEVEL_COLORS = new Color32[] {
         new() { r = 150, g = 220, b = 150, a = 255 },
